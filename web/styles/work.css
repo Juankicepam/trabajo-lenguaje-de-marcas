@@ -1,0 +1,55 @@
+.work-with-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fcb3f8;
+    padding: 24px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 90px;
+  }
+
+  h2 {
+    color: #ff08d6;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+
+  fieldset {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fcecff;
+  }
+
+  legend {
+    color: #ff08d6;
+    font-weight: bold;
+    font-size: 28px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+  }
+
+  select, input {
+    margin-bottom: 12px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  button {
+    padding: 10px;
+    background-color: #ff08d6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #ff0066;
+  }
